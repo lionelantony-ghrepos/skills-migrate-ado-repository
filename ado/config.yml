@@ -7,3 +7,5 @@ ado_repository_name: "MigrateFromADORepo"
 
 ado_url: "https://dev.azure.com/lionelantony"  # e.g "https://dev.azure.com/lionelantony"
 
+github_org: "ljaorg"
+target_github_repo_name: "gh-lja-repo"
